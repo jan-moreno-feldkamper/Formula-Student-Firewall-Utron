@@ -25,11 +25,11 @@ benchmarking to CAD design, thermal simulation, and iterative redesign.
 
 | File | Description |
 |------|-------------|
-| `BENCHMARKING_INTEGRACIÓN_DEL_FIREWALL_EN_EL_CHASIS.pdf` | Regulation analysis (FSG T4.8.x), material benchmarking (9 materials, 5 configurations), comparison with other FS teams |
-| `ALTERNATIVA_MATERIAL_AISLANTE_FIREWALL.pdf` | Cost-optimized insulation alternative (ceramic fibre blanket vs. aerogel) |
-| `DISEÑO_FINAL_FIREWALL_Y_SOPORTE.pdf` | Final material configuration (Al–Aerogel–Al), design decisions, support bracket design, thermal bridge mitigation strategy |
-| `SIMULACIÓN_FIREWALL.pdf` | Transient heat transfer FEM simulation in 3DEXPERIENCE — setup, boundary conditions, results and conclusions |
-| `Rediseño_firewall.pdf` | Iterative redesign based on simulation results — air gap configuration (25 mm), cost reduction ~€150 vs. aerogel solution |
+| `01-Benchmarking_firewall.pdf` | Regulation analysis (FSG T4.8.x), material benchmarking (9 materials, 5 configurations), comparison with other FS teams |
+| `02-Final_firewall_design_and_bracket.pdf` | Final material configuration (Al–Aerogel–Al), design decisions, support bracket design, thermal bridge mitigation strategy |
+| `03-Insulation_material_alternative.pdf` | Cost-optimized insulation alternative (ceramic fibre blanket vs. aerogel) |
+| `04-Firewall_simulation.pdf` | Transient heat transfer FEM simulation in 3DEXPERIENCE — setup, boundary conditions, results and conclusions |
+| `05-Firewall_redesign.pdf` | Iterative redesign based on simulation results — air gap configuration (25 mm), cost reduction ~€150 vs. aerogel solution |
 
 ---
 
