@@ -1,4 +1,3 @@
-# Formula-Student-Firewall-Utron
 # Firewall Development – UTRON AutoSport (Formula Student)
 
 **Author:** Jan Moreno Feldkämper  
@@ -42,11 +41,7 @@ benchmarking to CAD design, thermal simulation, and iterative redesign.
 
 ---
 
-## Next Project
+## Related Project
 
-Currently developing a **brake disc design and thermal analysis** for a 
-high-performance road car application, using CATIA V6 and 3DEXPERIENCE 
-FEM simulation
-Currently developing a **brake disc design and thermal analysis** for a 
-high-performance road car application, using CATIA V6 and 3DEXPERIENCE 
-FEM simulation.
+[Design and transient FEM thermal analysis of a ventilated brake disc](https://github.com/jan-moreno-feldkamper/brake-disc-thermal-analysis-porsche-992)
+— the same workflow applied to a component with a considerably more demanding thermal duty.
