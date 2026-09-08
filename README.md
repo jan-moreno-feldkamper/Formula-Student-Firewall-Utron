@@ -36,7 +36,7 @@ benchmarking to CAD design, thermal simulation, and iterative redesign.
 
 - Final configuration: Aluminium (3 mm) – 25 mm air gap – Aluminium (3 mm) with fire-retardant coating, fully compliant with FSG T4.6.2
 - Validated via transient FEM simulation: cold-side temperature below 60°C after 20 minutes at 220°C source temperature
-- Iterative redesign reduced material cost by ~€150 compared to the initial aerogel-based solution
+- Iterative redesign eliminated the aerogel insulation and the silicone bonding, reducing material cost from ~€300 to ~€80
 - Full compliance with FSG T4.8.1 – T4.8.6 firewall regulations
 
 ---
