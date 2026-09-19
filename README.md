@@ -45,3 +45,8 @@ benchmarking to CAD design, thermal simulation, and iterative redesign.
 
 [Design and transient FEM thermal analysis of a ventilated brake disc](https://github.com/jan-moreno-feldkamper/brake-disc-thermal-analysis-porsche-992)
 — the same workflow applied to a component with a considerably more demanding thermal duty.
+
+---
+
+Licensed under CC BY-NC-ND 4.0. Work carried out for the UTRON AutoSport
+Formula Student team.
